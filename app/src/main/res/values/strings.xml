@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pandaemonium</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cell_info">Cell Info</string>
+    <string name="menu_file_observer">File Observer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="home_text">This app is used to make a happier everyday life.</string>
+</resources>
